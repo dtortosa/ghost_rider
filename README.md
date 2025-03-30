@@ -1,6 +1,8 @@
 # Ghost Rider
 
-In this project, I developed a R program to simulate the movement of a Pac-man's ghost. This program is able to simulate thousands of iterations to explore the probability of certain outcomes. It includes the following arguments:
+In this project, I developed a R program to simulate the movement of a Pac-man's ghost. This program is able to simulate thousands of iterations to explore the probability of certain outcomes. This project is associated with the Data Science Certification I completed at the Data Incubator ([Pragmatic Institue](https://www.credly.com/badges/f789cc0f-a7fc-4c04-adaf-8b72ca5f421c)).
+
+The program includes the following arguments:
 
 - n_sim: Number of simulations.
 - grid_size: Size of the grid where the ghost moves. The grid can have similar or different number of rows and columns.
